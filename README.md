@@ -74,6 +74,8 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 - [Xenophon Labs](https://xenophonlabs.com/portfolio.html)
 
 ## Tools
+- [evmchain-config](https://github.com/harunosakura030303-maker/evmchain-config) - Chain configuration validation and management. Warns about unsafe RPC configurations, missing explorer keys, and environment mismatches — useful for DeFi deployment risk reduction.
+
 
 - [Euler Oracle Manipulation Tool](https://oracle.euler.finance/)
 - [Chaos Lab Uniswap v3 Oracle Manipulation Risk](https://community.chaoslabs.xyz/uniswap/twap)
